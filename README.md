@@ -7,8 +7,8 @@ The California Housing dataset is used for this project. It contains features de
 
 # Project Structure
 The project is structured as follows:
-Data Loading and Preprocessing: Load the dataset, inspect it for missing values, and perform basic statistical analysis.
-Correlation Analysis: Visualize correlations between features using a heatmap.
-Model Training: Train the XGBoost regressor model on the training data.
-Model Evaluation: Evaluate the model's performance using R-squared error and Mean Absolute Error on both training and test data.
-Visualization: Visualize the relationship between actual and predicted house prices.
+1. Data Loading and Preprocessing: Load the dataset, inspect it for missing values, and perform basic statistical analysis.
+2. Correlation Analysis: Visualize correlations between features using a heatmap.
+3. Model Training: Train the XGBoost regressor model on the training data.
+4. Model Evaluation: Evaluate the model's performance using R-squared error and Mean Absolute Error on both training and test data.
+5. Visualization: Visualize the relationship between actual and predicted house prices.
